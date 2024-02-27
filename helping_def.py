@@ -10,6 +10,7 @@ def display_board(board):
 
 
 
+
 def player_input():   
     '''
     OUTPUT = (Player 1 marker, Player 2 marker)
